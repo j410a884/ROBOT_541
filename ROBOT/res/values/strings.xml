@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ROBOT</string>
+    <string name="bt_not_connected">Bluetooth device currently not connected</string>
+    <string name="bt_connected">Bluetooth device is connected!</string>
+
+</resources>
